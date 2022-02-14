@@ -1,0 +1,25 @@
+Social share buttons don’t work
+Many websites have buttons for sharing information, but in this example those buttons don’t work.
+
+Severity
+Low
+
+Issue Type
+Functional
+
+Frequency
+Every Time
+
+Environment
+All Browsers
+
+Action Performed
+Open the Articles List
+Click on the social share buttons at the bottom of the posts to share them
+Expected Result
+To be able to share posts using the social media share buttons
+
+Actual Result
+The social share buttons don't lead to anywhere
+
+Attachments
