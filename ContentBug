@@ -1,0 +1,24 @@
+Content
+Content issues affect the text of a page, such as spelling, grammar and localization errors.
+
+Severity
+Low
+
+Issue Type
+Content
+
+Frequency
+Every Time
+
+Environment
+All Browsers
+
+Action Performed
+Open the Frequently Asked Questions page
+Expected Result
+To see the page in English
+
+Actual Result
+Some parts of the page are not translated
+
+Attachments
