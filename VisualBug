@@ -1,0 +1,25 @@
+Visual
+Visual issues affect the layout and cause user interface distortion such as missing elements or images on a page.
+
+Severity
+Low
+
+Issue Type
+Visual
+
+Frequency
+Every Time
+
+Environment
+All Browsers
+
+Action Performed
+Open the Articles page
+Scroll down to the last article
+Expected Result
+To see the last articles's image
+
+Actual Result
+The last article's image is broken
+
+Attachments
