@@ -1,0 +1,25 @@
+Search button leads to an error
+A search button should find appropriate results, but in this example clicking on it leads to an error page.
+
+Severity
+High
+
+Issue Type
+Functional
+
+Frequency
+Every Time
+
+Environment
+All Browsers
+
+Action Performed
+Open the Product Details Page
+On right side type the same product's name and hit "Search"
+Expected Result
+Appropriate results are found
+
+Actual Result
+Clicking on the 'Search' button leads to an error page
+
+Attachments
