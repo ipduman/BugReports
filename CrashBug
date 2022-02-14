@@ -1,0 +1,25 @@
+Crash
+Application quits or closes unexpectedly while using the features.
+
+Severity
+Critical
+
+Issue Type
+Crash
+
+Frequency
+Every Time
+
+Environment
+All Browsers
+
+Action Performed
+Open the What We Offer page
+Click on the second page button at the bottom
+Expected Result
+The second page opens as expected
+
+Actual Result
+The entire page including the links and buttons become unresponsive
+
+Attachments
