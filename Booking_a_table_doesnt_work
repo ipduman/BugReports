@@ -1,0 +1,26 @@
+Booking a table doesn't work
+The user should be able to book a table, but in this example the user cannot submit the booking form.
+
+Severity
+Critical
+
+Issue Type
+Functional
+
+Frequency
+Every Time
+
+Environment
+All Browsers
+
+Action Performed
+Open the Table Reservation form
+Fill in the form
+Click "Request Booking"
+Expected Result
+The form is submitted successfully and a confirmation message is shown
+
+Actual Result
+The same page is shown again
+
+Attachments
