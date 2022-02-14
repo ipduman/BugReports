@@ -1,0 +1,25 @@
+Articles show an error page
+The articles should show appropriate content, but in this example clicking an article shows an error page.
+
+Severity
+High
+
+Issue Type
+Functional
+
+Frequency
+Every Time
+
+Environment
+All Browsers
+
+Action Performed
+Open the Articles list
+Open an article by clicking on the image, title or the Read More button
+Expected Result
+The articles show appropriate content
+
+Actual Result
+Clicking on all articles open an error page
+
+Attachments
