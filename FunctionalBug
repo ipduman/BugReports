@@ -1,0 +1,25 @@
+Functional
+Workflow failures producing an unexpected or illogical application behavior where the actual result differs from the expected result.
+
+Severity
+Medium
+
+Issue Type
+Functional
+
+Frequency
+Every Time
+
+Environment
+All Browsers
+
+Action Performed
+Open the Opportunities We Provide page
+Click the "Apply now" button at the bottom
+Expected Result
+To see an appropriate page after clicking on the button
+
+Actual Result
+Nothing happens when clicking on the button
+
+Attachments
