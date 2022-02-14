@@ -1,0 +1,25 @@
+Send button returns an error page
+Users should be able to send a message when clicking send, but in this example the button returns an error page.
+
+Severity
+Medium
+
+Issue Type
+Functional
+
+Frequency
+Every Time
+
+Environment
+All Browsers
+
+Action Performed
+Open the Contact Us Form
+Fill in the form and click "Send"
+Expected Result
+The message is sent through the contact us form
+
+Actual Result
+After filling in the form and clicking the 'Send' button, an error message is displayed
+
+Attachments
