@@ -1,0 +1,25 @@
+Video player doesn’t work
+Video players should quickly buffer and play video files, but in this example some videos can’t be played.
+
+Severity
+High
+
+Issue Type
+Functional
+
+Frequency
+Every Time
+
+Environment
+All Browsers
+
+Action Performed
+Open the Latest news page
+Try to play the videos on the left column
+Expected Result
+The videos in the left column are played back
+
+Actual Result
+A black screen is shown instead of videos in the left column
+
+Attachments
