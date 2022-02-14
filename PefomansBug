@@ -1,0 +1,24 @@
+Performance
+Problematic slowness or hanging, sluggish interface. Features take longer to load than they should, slow navigation in the application.
+
+Severity
+High
+
+Issue Type
+Performance
+
+Frequency
+Every Time
+
+Environment
+All Browsers
+
+Action Performed
+Open the Request a Quote page
+Expected Result
+The page loads in a timely manner
+
+Actual Result
+The page loads infinitely
+
+Attachments
